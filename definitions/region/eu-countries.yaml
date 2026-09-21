@@ -1,0 +1,13 @@
+- Europe:
+  - EU27:
+      description: European Union
+  - EU27 & UK:
+      description: European Union and United Kingdom
+  - EU27 & EFTA:
+      description: European Union and European Free Trade Association
+  - EU27 & EFTA & UK:
+      description: European Union, European Free Trade Association and United Kingdom
+  - Scandinavia:
+      description: Scandinavian countries
+  - Baltics:
+      description: Baltic countries
