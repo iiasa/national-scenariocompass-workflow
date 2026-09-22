@@ -8,10 +8,4 @@ definitions:
   variable:
     repository: common-definitions
   region:
-    repository:
-      name: common-definitions
-      include:
-        - hierarchy: R5
-        - hierarchy: R9
-        - hierarchy: R10
     country: true
